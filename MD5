@@ -1,0 +1,16 @@
+e3fd4f88a3175aaf60f0b08cdc24ca66 *DESCRIPTION
+14b980f72ee5a33afa69aa0a0fb75a0e *NAMESPACE
+d36a57b01643a7511a4c5a0450d89c5a *R/rDVR.R
+1bab49d619d792a0f351da29ce7c4f12 *R/util.R
+944006d216d459f66e29fea74de73237 *README.md
+5e9c8723fc603822ea1b34ecdfdd4ff2 *build/vignette.rds
+1c40e069a07871dafd6e64425532bf4b *demo/00Index
+678e37323ce73e7708f3675b0069f8bf *demo/shinyBS-demo.R
+f0a94d652192f474c95309a1afec26cd *inst/bin/run.sh
+ad4552ba256ab35a62fb61fb0c4b12a3 *inst/doc/rDVR-basics.R
+ac4119f53a566e1c32692a5a412a831e *inst/doc/rDVR-basics.Rmd
+7e4dc11f4f00a17ddbbbbae2c8600f08 *inst/doc/rDVR-basics.html
+d5fd7fcd1ad2742a383012e2859bc2ff *man/checkForVServer.Rd
+aa66036c3975b54ccc37fa56f464d249 *man/rDVR-class.Rd
+ac297c5f632044e686fe1a6ba1bd95ea *man/startVideoServer.Rd
+ac4119f53a566e1c32692a5a412a831e *vignettes/rDVR-basics.Rmd
